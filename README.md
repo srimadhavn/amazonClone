@@ -24,7 +24,7 @@ This project is a clone of Amazon's e-commerce platform built with Vite for a fa
 1. Clone the repository:
 ```bash
 git clone https://github.com/srimadhavn/amazonClone.git
-cd amazon-clone
+cd amazonClone
 ```
 
 2. Install dependencies:
